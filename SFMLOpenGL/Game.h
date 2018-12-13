@@ -4,12 +4,12 @@
 #include <gl/GL.h>
 #include <gl/GLU.h>
 
-#include <Vector3.h>
+#include "MyVector3.h"
+#include "MyMatrix3.h"
 
 
 using namespace std;
 using namespace sf;
-using namespace gpp;
 
 class Game
 {
@@ -23,11 +23,18 @@ private:
 	void initialize();
 	void update();
 	void draw();
-	void unload();
+	void newFaceList();
+
+	const MyVector3 m_startPoints[8];
+	MyVector3 m_points[8];
+	MyVector3 m_displacementVec{ 0, 0, -6 };
 
 	GLuint index;
 	Clock clock;
 	Time elapsed;
 
-	float rotationAngle = 0.0f;
+	float m_scale = 1.0f;
+	float m_rotationX = 0.0f;
+	float m_rotationY = 0.0f;
+	float m_rotationZ = 0.0f;
 };

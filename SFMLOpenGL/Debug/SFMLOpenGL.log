@@ -1,32 +1,32 @@
 ﻿  Game.cpp
+c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(167): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(168): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(169): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(170): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(171): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(172): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(173): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(174): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(175): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(176): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(177): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(178): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(179): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(180): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(181): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(182): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(183): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(184): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(185): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(186): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(187): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(188): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(189): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(190): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(191): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(192): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(193): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(194): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(195): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(196): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(197): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(198): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(199): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(200): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(201): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(202): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(203): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(204): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(205): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(206): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(207): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\c00230799\desktop\gpcube\sfmlopengl\game.cpp(208): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
   SFMLOpenGL.vcxproj -> C:\Users\c00230799\Desktop\GPCube\Debug\SFMLOpenGL.exe
   C:\SFML-2.5.0\bin\openal32.dll
   C:\SFML-2.5.0\bin\sfml-audio-2.dll
